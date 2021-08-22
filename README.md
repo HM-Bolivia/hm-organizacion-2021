@@ -4,11 +4,11 @@ El [**Hackmeeting Bolivia**](https://hackmeeting.org.bo/) es un evento que reune
 
 ## Evento
 
-Lugar: [**Yacuiba**](https://es.wikipedia.org/wiki/Yacuiba)
-Fecha: **19, 20 y 21 de noviembre**
-Formato: **Presencial - Online**
-Requisitos: **El evento es de ingreso libre, pero para cuidar la salud de los asistentes, debes vacunarte, la salud es responsabilidad de todos!!!**
-Nota:
+- Lugar: [**Yacuiba**](https://es.wikipedia.org/wiki/Yacuiba)
+- Fecha: **19, 20 y 21 de noviembre**
+- Formato: **Presencial - Online**
+- Requisitos: **El evento es de ingreso libre, pero para cuidar la salud de los asistentes, debes vacunarte, la salud es responsabilidad de todos!!!**
+- Nota:
 
 - 21 de noviembre son fechas festivas en Yacuiba
 - Por el momento tomamos esta fecha como la elegida y podemos empezar a publicitar desde ya
