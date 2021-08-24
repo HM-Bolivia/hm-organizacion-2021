@@ -19,11 +19,25 @@ Existe la posibilidad que potenciales asistentes al evento adelanten su viaje un
 
 El **CTF - Capture The Flag** tiene la lógica de lanzar retos a los asistentes, donde los ganadores del anterior **Hackmeeting** deben organizar el próximo CTF.
 
-## C4F 
+## CFP 
 
 - Responsable actual: Organización general
 - Fecha de llamada o convocatoria: 1 de septiembre 2021
 - Fecha de finalización: 20 de septiembre 2021
+
+Sería bueno poner en el formulario si los que desean presentar una charla podrán viajar o no, eso nos daría una mejor idea si el evento será exitoso de manera presencial.
+
+### Lecciones Aprendidas CFP 2020
+
+El 2020 decidimos utilizar LimeSurvey en un server administrado por nosotros, al final la cuenta que se utilizó fue baneada y se perdió la información de varias charlas.
+
+Al final para resolver el problema tuvimos las dos siguientes opciones:
+- Google Forms
+- [Cognito Forms](https://www.cognitoforms.com/)
+
+Para no ser parte del big brother Google, decidimos ir por Cognito Forms y nos funcionó muy bien. 
+
+No está excluida la opción de algo self-hosted, sin embargo debe haber una o más personas comprometidas de administrar la plataforma del CFP, es decir, ver que esté arriba todo el tiempo, sacar backups constantemente y tener un plan de recuperación rápido en caso de alguna eventualidad.
 
 ### Temáticas
 
